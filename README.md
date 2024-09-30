@@ -1,8 +1,8 @@
 # Basic-CRUD-PHP-MySQL
 
-<h1>sistema de gerenciamento de biblioteca em PHP</h1>
+<h1>Sistema de Gerenciamento de Biblioteca em PHP</h1>
 
-Here is a web view running on localhost.
+<P>Um modelo de classe chamado Livro que inclua atributos como título, autor, ISBN e número de cópias disponíveis. Além disso, implementa métodos para emprestar um livro, devolver um livro e verificar a disponibilidade de cópias</p>
 
 ![vid2](https://user-images.githubusercontent.com/66185022/105703821-c6a63f00-5f48-11eb-81d2-eee4b805243b.gif)
 
